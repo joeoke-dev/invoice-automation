@@ -1,0 +1,11 @@
+customer_id,gender,age,payment_method
+C100001,Female,28,Credit Card
+C100002,Male,21,Debit Card
+C100003,Female,45,Cash
+C100004,Male,33,Cash
+C100005,Female,52,Credit Card
+C100006,Male,19,Debit Card
+C100007,Female,61,Cash
+C100008,Male,40,Credit Card
+C100009,Female,37,Cash
+C100010,Male,29,Debit Card

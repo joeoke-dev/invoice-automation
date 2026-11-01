@@ -1,0 +1,11 @@
+customer_id,email
+C100001,customer1@example.com
+C100002,customer2@example.com
+C100003,customer3@example.com
+C100004,customer4@example.com
+C100005,customer5@example.com
+C100006,customer6@example.com
+C100007,customer7@example.com
+C100008,customer8@example.com
+C100009,
+C100010,not-an-email

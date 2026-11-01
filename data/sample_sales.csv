@@ -1,0 +1,12 @@
+invoice_no,customer_id,category,quantity,price,invoice_date,shopping_mall
+I100001,C100001,Clothing,2,600.17,05/08/2022,Kanyon
+I100002,C100002,Shoes,1,1200.50,12/12/2021,Forum Istanbul
+I100002,C100002,Technology,1,2400.00,12/12/2021,Forum Istanbul
+I100003,C100003,Cosmetics,3,40.66,13/03/2022,Istinye Park
+I100004,C100004,Books,4,15.15,21/01/2023,Metrocity
+I100005,C100005,Food & Beverage,5,5.23,02/06/2022,Mall of Istanbul
+I100006,C100006,Toys,2,35.84,19/09/2022,Kanyon
+I100007,C100007,Souvenir,3,11.73,30/11/2021,Metropol AVM
+I100008,C100008,Clothing,1,300.08,08/04/2022,Zorlu Center
+I100009,C100009,Cosmetics,2,40.66,25/10/2022,Istinye Park
+I100010,C100010,Shoes,2,600.17,14/02/2023,Cevahir AVM
