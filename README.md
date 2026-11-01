@@ -4,7 +4,8 @@ A Python tool that turns sales data into PDF receipts and emails them to custome
 
 **Pipeline:** CSV files → merge & group by invoice → PDF receipt per invoice → email each customer → log the result
 
-<!-- Add a screenshot of a generated receipt and of a received email here -->
+![Generated receipt](images/receipt.png)
+![Email with receipt attached](images/email.png)
 
 ## Features
 
